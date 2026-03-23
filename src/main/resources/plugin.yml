@@ -1,7 +1,7 @@
 name: ServerRestartPlugin
-version: 1.0
+version: 1.4
 main: cc.tazl.serverrestart.restart
-api-version: 1.16
+api-version: '1.21'
 description: A plugin to restart the server every 5 hours with warnings.
 
 commands:
